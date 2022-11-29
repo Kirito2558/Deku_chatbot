@@ -6,6 +6,7 @@ Deku chat bot is created using IBM watson assisstant
 
 # Built with 
 IBM watson assistant 
-languages Used - HTML,CSS,Java script 
+languages Used in designing webpage - HTML,CSS,Java script 
 
 # Getting Started
+Link to deployed chatbot - https://t.ly/LD0w
