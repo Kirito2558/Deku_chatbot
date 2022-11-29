@@ -3,3 +3,9 @@ At the most basic level, a chatbot is a computer program that simulates and proc
 Deku chat bot is built for helping customer to help with onine banking and transaction 
 It helps you create account, access account information and pay your bills.
 Deku chat bot is created using IBM watson assisstant 
+
+# Built with 
+IBM watson assistant 
+languages Used - HTML,CSS,Java script 
+
+# Getting Started
